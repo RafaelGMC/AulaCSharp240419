@@ -94,5 +94,15 @@ namespace ProjetoLojaABC
                 btnEntrar.Focus();
             }
         }
+
+        private void txtSenha_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void txtUsuario_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
